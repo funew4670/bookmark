@@ -188,7 +188,7 @@ Bookmarks<br />
 [vr吧_百度贴吧](http://tieba.baidu.com/f?kw=vr)<br />
 [VR技术|VR虚拟现实|虚拟现实游戏|虚拟现实技术|VR眼镜——VR日报（虚拟现实（VR）第一产业媒体）](http://www.vrrb.cn/)<br />
 [VRScout - Virtual Reality News and VR Videos](http://vrscout.com/)<br />
-[Road to VR - Virtual Reality News](http://www.roaDDovr.com/)<br />
+[Road to VR - Virtual Reality News](http://www.roaDTovr.com/)<br />
 [VRFocus | The Reality of Virtual Reality](https://www.vrfocus.com/)<br />
 [黑匣网-VR用户第一站](http://www.heix.cn/)<br />
 [映维网 - 国际权威虚拟现实（VR）平台，引领全球虚拟现实（VR）产业发展](https://yivian.com/)<br />
