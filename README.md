@@ -9,6 +9,8 @@
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
 
+[]()<br />
+
 Bookmarks<br />
 <br />
 [The View from Taiwan](http://michaelturton.blogspot.com/)<br />
@@ -68,10 +70,12 @@ Bookmarks<br />
 [恶魔岛动漫世界](http://www.emland.net/)<br />
 [HorribleSubs](http://horriblesubs.info/)<br />
 [IRG log g0v.tw](http://logbot.g0v.tw/channel/g0v.tw/today)<br />
+[捷克](https://www.jkforum.net/forum-141-1.html)<br />
 
 ## 新聞
 
 [Computerworld](http://www.computerworld.com/news/index.jsp)<br />
+[Wiki news](https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5)<br />
 
 ## 新軟體介紹
 
@@ -83,6 +87,7 @@ Bookmarks<br />
 [Scott Hanselman&#39;s Computer Zen](http://www.hanselman.com/blog/)<br />
 [Hacker News](https://news.ycombinator.com/)<br />
 [pttcode - PTT低調低調](http://pttcode.googlepages.com/)<br />
+[CSDN](https://www.csdn.net/)<br />
 
 ## 新增資料夾
 
@@ -215,3 +220,5 @@ Bookmarks<br />
 [Reddit](https://www.Reddit.com)<br />
 [微博台灣站](https://www.weibo.com/tw)<br />
 [今日头条](https://www.toutiao.com/)<br />
+[twitter](https://twitter.com/)<br />
+[instagram](https://www.instagram.com/)<br />
