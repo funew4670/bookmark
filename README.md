@@ -1,5 +1,5 @@
 - [新產物](#新產物)
-- [硬體](#硬體)
+- [電腦硬體](#電腦硬體)
 - [論壇](#論壇)
 - [新聞](#新聞)
 - [新軟體介紹](#新軟體介紹)
@@ -8,6 +8,7 @@
 - [經濟](#經濟)
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
+- [Game](#Game)
 
 []()<br />
 
@@ -24,7 +25,12 @@ Bookmarks<br />
 <br />
 
 ## 新產物
-
+[Geekzone: technology news, blogs, forums](http://www.geekzone.co.nz/default.asp)<br />
+[Gizmodo - We come from the future.](https://gizmodo.com/)<br />
+[ThinkGeek :: Stuff for Smart Masses](http://www.thinkgeek.com/)<br />
+[數碼 - 香港新浪](http://sina.com.hk/tech/)<br />
+[ZOL中关村在线](http://news.zol.com.cn/)<br />
+[TechRadar UK | Technology News And Reviews](http://www.techradar.com/)<br />
 [TechCrunch](http://www.techcrunch.com/)<br />
 [Reseller Advocate | Issue 84](http://www.reselleradvocate.com/public/ram/index.html)<br />
 [WiNDy Online](http://windy-online.com/)<br />
@@ -52,8 +58,8 @@ Bookmarks<br />
 [AnanDDech: your source for hardware analysis an...](http://www.ananDDech.com/)<br />
 [视频-今日全部分类最多播放 - 中国领先视频网,提供视频播放,视频发布,视频搜索](http://www.youku.com/v_showlist/t2c105g259.html)<br />
 
-## 硬體
-
+## 電腦硬體
+[硬派精璽線上購物網](http://www.inpad.com.tw/)<br />
 [CPU-World: From Intel 4004 CPUs to AMD K10 and ...](http://www.cpu-world.com/index.html)<br />
 [The Latest News, Reviews, Guides and Rankings f...](http://www.motherboards.org/)<br />
 [iFixit: Apple Mac, MacBook, iPod, and iPhone Re...](http://www.ifixit.com/)<br />
@@ -61,6 +67,7 @@ Bookmarks<br />
 [Technology News, Computer and Notebook Reviews, Computer News, Computer Mods, PC News | Maximum PC](http://www.maximumpc.com/)<br />
 [Mobile01 [教學]將USB 隨身碟 製成 XP 的安裝碟 (模擬CD-ROM)](http://www.mobile01.com/topicdetail.php?f=159&t=665722&p=1)<br />
 [techPowerUp! Forums - Powered by vBulletin](http://forums.techpowerup.com/index.php)<br />
+[AG【On-Line Store】Diy 改裝軍團 線上購物網 --專營電腦改裝精品--](http://armygroup.com.tw/myshop/index.php?osCsid=8)<br />
 
 ## 論壇
 
@@ -76,6 +83,9 @@ Bookmarks<br />
 
 [Computerworld](http://www.computerworld.com/news/index.jsp)<br />
 [Wiki news](https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5)<br />
+[Huffington](http://www.huffingtonpost.com/)<br />
+[The New York Times - Breaking News, World News &amp; Multimedia](http://www.nytimes.com/)<br />
+[蘋果動新聞](http://hk.dv.nextmedia.com/template/dv_channel/)<br />
 
 ## 新軟體介紹
 
@@ -88,40 +98,20 @@ Bookmarks<br />
 [Hacker News](https://news.ycombinator.com/)<br />
 [pttcode - PTT低調低調](http://pttcode.googlepages.com/)<br />
 [CSDN](https://www.csdn.net/)<br />
+[xda-developers](http://forum.xda-developers.com/index.php)<br />
 
 ## 新增資料夾
 
-[Wii 飯團 | 專業電玩交流資訊網](http://www.wiiholic.com/)<br />
-[Ultima Online [UO] 大魔導資料站 (虫虫網)](http://www.alanstudio.hk/uo/)<br />
-[1UP.com: Video Game Reviews, Cheats, and More](http://www.1up.com/)<br />
-[GameSpy: Video Games, PC, Xbox 360, PS3, Wii, DS, PSP](http://www.gamespy.com/)<br />
-[GameRankings - Video Game Reviews from around t...](http://www.gamerankings.com/)<br />
-[Video Games](http://www.vgchartz.com/)<br />
-[mmosite](http://www.mmosite.com/)<br />
-[Video Game Trailers for Wii, PSP, Xbox, PS3 &amp; More | Upcoming Video Games](http://www.gametrailers.com/)<br />
-[免費抽獎情報-LuckyDog抽獎達人](http://luckydog.tw/)<br />
-[reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
-[The Daily Beast](http://www.thedailybeast.com/)<br />
-[TechRadar UK | Technology News And Reviews](http://www.techradar.com/)<br />
-[Huffington](http://www.huffingtonpost.com/)<br />
-[The New York Times - Breaking News, World News &amp; Multimedia](http://www.nytimes.com/)<br />
 [Home | Mail Online](http://www.dailymail.co.uk/home/index.html)<br />
 [Breaking News and Opinion on The Huffington Post](http://www.huffingtonpost.com/)<br />
 [The Sun | The Best for News, Sport, Showbiz, Celebrities &amp; TV | The Sun| The Sun](http://www.thesun.co.uk/sol/homepage/)<br />
 [Talking Points Memo | Breaking News and Analysis](http://www.talkingpointsmemo.com/)<br />
 [Entertainment Weekly&#39;s EW.com | Entertainment News | TV News | TV Shows | Movie, Music and DVD](http://www.ew.com/ew)<br />
-[數碼遊戲 - 香港新浪](http://sina.com.hk/tech/)<br />
-[ZOL中关村在线](http://news.zol.com.cn/)<br />
 [中國頻道 - 即時中國新聞,深入分析,獨到評論 - 香港經濟日報 hket.com](https://china.hket.com/)<br />
 [Today&#39;s Stock Market News and Analysis - Nasdaq.com](https://www.nasdaq.com/news/)<br />
 [特賣會情報站 撿便宜找好康 :: 痞客邦 PIXNET ::](http://loveshare.pixnet.net/blog)<br />
-[ThinkGeek :: Stuff for Smart Masses](http://www.thinkgeek.com/)<br />
-[硬派精璽線上購物網](http://www.inpad.com.tw/)<br />
 [Cracked.com – America&#39;s Only Humor &amp; Video Site Since 1958](http://www.cracked.com/)<br />
 [Piki Geek | Keep it geeky.](http://blog.pikimal.com/geek/)<br />
-[AG【On-Line Store】Diy 改裝軍團 線上購物網 --專營電腦改裝精品--](http://armygroup.com.tw/myshop/index.php?osCsid=8)<br />
-[Geekzone: technology news, blogs, forums](http://www.geekzone.co.nz/default.asp)<br />
-[Gizmodo - We come from the future.](https://gizmodo.com/)<br />
 [KHL Group - Home](http://www.khl.com/)<br />
 [ArchDaily | Broadcasting Architecture Worldwide](http://www.archdaily.com/)<br />
 [《工程机械》杂志电子版](http://www.chinacme.com/)<br />
@@ -139,15 +129,12 @@ Bookmarks<br />
 [TreeHugger](http://www.treehugger.com/)<br />
 [Science Daily: News &amp; Articles in Science, Heal...](http://www.sciencedaily.com/)<br />
 [Sci-Hub: removing barriers in the way of science](http://sci-hub.io/)<br />
-[蘋果動新聞](http://hk.dv.nextmedia.com/template/dv_channel/)<br />
 [ATDHE.Net](http://atdhe.net/)<br />
 [YouTube - CNETTV 的頻道](http://www.youtube.com/user/CNETTV)<br />
 [腾讯首页](http://www.qq.com/)<br />
 [天涯聚焦_天涯社区_全球华人网上家园](http://www.tianya.cn/focus/)<br />
 [Alexa Top 500 Global Sites](http://www.alexa.com/topsites)<br />
-[微博台灣站](http://tw.weibo.com/)<br />
 [Mobile-review.com](http://www.mobile-review.com/index-en.shtml)<br />
-[xda-developers](http://forum.xda-developers.com/index.php)<br />
 [MobileTechWorld](http://www.mobiletechworld.com/)<br />
 [IntoMobile - Cell Phone News](http://www.intomobile.com/)<br />
 [GSMArena.com - GSM phone reviews, news, opinions, votes, manuals and more...](http://www.gsmarena.com/)<br />
@@ -222,3 +209,13 @@ Bookmarks<br />
 [今日头条](https://www.toutiao.com/)<br />
 [twitter](https://twitter.com/)<br />
 [instagram](https://www.instagram.com/)<br />
+[微博台灣站](http://tw.weibo.com/)<br />
+
+## Game
+[]()<br />
+[1UP.com: Video Game Reviews, Cheats, and More](http://www.1up.com/)<br />
+[GameSpy: Video Games, PC, Xbox 360, PS3, Wii, DS, PSP](http://www.gamespy.com/)<br />
+[GameRankings - Video Game Reviews from around t...](http://www.gamerankings.com/)<br />
+[vgchartz](http://www.vgchartz.com/)<br />
+[youtube:gametrailers](https://www.youtube.com/user/gametrailers)<br />
+[reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
