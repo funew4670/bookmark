@@ -1,3 +1,13 @@
+[新產物](#新產物)
+[硬體](#硬體)
+[論壇](#論壇)
+[新聞](#新聞)
+[新軟體介紹](#新軟體介紹)
+[程式設計](#程式設計)
+[新增資料夾](#新增資料夾)
+[經濟](#經濟)
+[social networks](#social networks)
+
 Bookmarks<br />
 <br />
 [The View from Taiwan](http://michaelturton.blogspot.com/)<br />
@@ -9,8 +19,9 @@ Bookmarks<br />
 [電腦玩物](http://playpcesor.blogspot.com/)<br />
 [【重灌狂人】](http://briian.com/)<br />
 <br />
-##新產物<br />
-    <br />
+
+## 新產物
+
 [TechCrunch](http://www.techcrunch.com/)<br />
 [Reseller Advocate | Issue 84](http://www.reselleradvocate.com/public/ram/index.html)<br />
 [WiNDy Online](http://windy-online.com/)<br />
@@ -38,7 +49,7 @@ Bookmarks<br />
 [AnanDDech: your source for hardware analysis an...](http://www.ananDDech.com/)<br />
 [视频-今日全部分类最多播放 - 中国领先视频网,提供视频播放,视频发布,视频搜索](http://www.youku.com/v_showlist/t2c105g259.html)<br />
 <br />
-##硬體<br />
+## 硬體<br />
     <br />
 [CPU-World: From Intel 4004 CPUs to AMD K10 and ...](http://www.cpu-world.com/index.html)<br />
 [The Latest News, Reviews, Guides and Rankings f...](http://www.motherboards.org/)<br />
@@ -48,7 +59,7 @@ Bookmarks<br />
 [Mobile01 [教學]將USB 隨身碟 製成 XP 的安裝碟 (模擬CD-ROM)](http://www.mobile01.com/topicdetail.php?f=159&t=665722&p=1)<br />
 [techPowerUp! Forums - Powered by vBulletin](http://forums.techpowerup.com/index.php)<br />
 <br />
-##論壇<br />
+## 論壇<br />
     <br />
 [MyChat 數位男女](http://bbs-mychat.com/index.php)<br />
 [ALLHABIT 香港討論區,香港論壇](http://www.allhabit.com/index.html)<br />
@@ -57,22 +68,22 @@ Bookmarks<br />
 [HorribleSubs](http://horriblesubs.info/)<br />
 [IRG log g0v.tw](http://logbot.g0v.tw/channel/g0v.tw/today)<br />
 <br />
-##新聞<br />
+## 新聞<br />
     <br />
 [Computerworld](http://www.computerworld.com/news/index.jsp)<br />
 <br />
-##新軟體介紹<br />
+## 新軟體介紹<br />
     <br />
 [尋找屬於我的世界 - SuperXP教學](http://www.wretch.cc/blog/michaeloil/20779483)<br />
 [NICE Online](http://niceonline.blogspot.com/)<br />
 <br />
-##程式設計<br />
+## 程式設計<br />
     <br />
 [Scott Hanselman&#39;s Computer Zen](http://www.hanselman.com/blog/)<br />
 [黑客天下 - 黑客网站,QQ黑客,QQ技术,网络安全,黑客工具,动画教程！](http://hack4.com/)<br />
 [pttcode - PTT低調低調](http://pttcode.googlepages.com/)<br />
 <br />
-##新增資料夾<br />
+## 新增資料夾<br />
     <br />
 [Wii 飯團 | 專業電玩交流資訊網](http://www.wiiholic.com/)<br />
 [Ultima Online [UO] 大魔導資料站 (虫虫網)](http://www.alanstudio.hk/uo/)<br />
@@ -161,7 +172,7 @@ Bookmarks<br />
 [The Becker-Posner Blog](http://www.becker-posner-blog.com/)<br />
 [Alexa the Web Information Company](http://www.alexa.com/)<br />
 <br />
-##經濟<br />
+## 經濟<br />
     <br />
 [中国经济网——国家经济门户](http://www.ce.cn/)<br />
 [創新突破 無限可能 I&#39;m Possible! - 捷斯奧光電論壇](http://enews.wec.com.tw/)<br />
@@ -197,6 +208,6 @@ Bookmarks<br />
 [微博台灣站](https://www.weibo.com/tw)<br />
 [今日头条](https://www.toutiao.com/)<br />
 
-##social networks  
+## social networks
 
 [Reddit](https://www.Reddit.com)<br />
