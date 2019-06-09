@@ -7,6 +7,7 @@
 - [新增資料夾](#新增資料夾)
 - [經濟](#經濟)
 - [socialnetworks](#socialnetworks)
+- [VR](#VR)
 
 Bookmarks<br />
 <br />
@@ -80,7 +81,7 @@ Bookmarks<br />
 ## 程式設計
 
 [Scott Hanselman&#39;s Computer Zen](http://www.hanselman.com/blog/)<br />
-[黑客天下 - 黑客网站,QQ黑客,QQ技术,网络安全,黑客工具,动画教程！](http://hack4.com/)<br />
+[Hacker News](https://news.ycombinator.com/)<br />
 [pttcode - PTT低調低調](http://pttcode.googlepages.com/)<br />
 
 ## 新增資料夾
@@ -192,6 +193,9 @@ Bookmarks<br />
 [證券櫃檯買賣中心](http://www.otc.org.tw/ch/index.php)<br />
 [上海清算所](https://www.shclearing.com/)<br />
 [史萊姆的第一個家](http://www.slime.com.tw/)<br />
+
+## VR
+
 [虚拟现实,虚拟现实游戏,虚拟现实电影,虚拟现实旅游-vr186让虚拟现实成为一种生活方式](http://www.vr186.com/)<br />
 [oculusrift吧_百度贴吧](http://tieba.baidu.com/f?kw=oculusrift)<br />
 [VR进化论_网易科技频道](http://tech.163.com/vr/)<br />
@@ -205,9 +209,9 @@ Bookmarks<br />
 [映维网 - 国际权威虚拟现实（VR）平台，引领全球虚拟现实（VR）产业发展](https://yivian.com/)<br />
 [Mogura VR - 国内外のVR/AR/MR最新情報](https://www.moguravr.com/)<br />
 [The British Museum on Sketchfab - Sketchfab](https://sketchfab.com/britishmuseum)<br />
-[微博台灣站](https://www.weibo.com/tw)<br />
-[今日头条](https://www.toutiao.com/)<br />
 
 ## socialnetworks
 
 [Reddit](https://www.Reddit.com)<br />
+[微博台灣站](https://www.weibo.com/tw)<br />
+[今日头条](https://www.toutiao.com/)<br />
