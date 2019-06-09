@@ -7,10 +7,12 @@
 - [新軟體介紹](#新軟體介紹)
 - [程式設計](#程式設計)
 - [新增資料夾](#新增資料夾)
+- [電視](#電視)
 - [經濟](#經濟)
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
 - [Game](#Game)
+- [玩具](#玩具)
 
 []()<br />
 
@@ -24,22 +26,18 @@
 [ZOL中关村在线](http://news.zol.com.cn/)<br />
 [TechRadar UK | Technology News And Reviews](http://www.techradar.com/)<br />
 [TechCrunch](http://www.techcrunch.com/)<br />
-[Reseller Advocate | Issue 84](http://www.reselleradvocate.com/public/ram/index.html)<br />
-[WiNDy Online](http://windy-online.com/)<br />
 [Lifehacker, tips and downloads for getting things done](http://lifehacker.com/)<br />
 [Instructables - Make, How To, and DIY](http://www.instructables.com/)<br />
-[HEXUS.net - Definitive Technology News and Reviews](http://www.hexus.net/)<br />
-[FrostyTech - Best Heat Sinks &amp; PC Cooling Reviews](http://www.frostytech.com/articles.cfm)<br />
-[TechInsight - RAM TV | Giving Intel resellers the edge in todays market.](http://www.techinsight.tv/)<br />
-[TV.com - Free Full Episodes &amp; Clips, Show Info and TV Listings Guide](http://www.tv.com/?tag=nav_top;home)<br />
-[SourceForge.net: Find and Develop Open-Source Software](http://sourceforge.net/)<br />
 [Product reviews and prices, software downloads, and tech news - CNET](http://www.cnet.com/)<br />
 [Ars Technica](http://arstechnica.com/)<br />
-[AnanDDech: your source for hardware analysis an...](http://www.ananDDech.com/)<br />
-[视频-今日全部分类最多播放 - 中国领先视频网,提供视频播放,视频发布,视频搜索](http://www.youku.com/v_showlist/t2c105g259.html)<br />
+[Mr. 6 – 趨勢．創業．網路．生活](http://mr6.cc/)<br />
+[36氪](http://36kr.com/)<br />
 
 
 ## 電腦硬體
+[GIGAZINE（ギガジン） - ソウシリーズ6作目「SAW6」の新しいHD画質予告編が公開中、残虐シーンの一部が明らかに](http://gigazine.net/)<br />
+[HEXUS.net - Definitive Technology News and Reviews](http://www.hexus.net/)<br />
+[FrostyTech - Best Heat Sinks &amp; PC Cooling Reviews](http://www.frostytech.com/articles.cfm)<br />
 [T客邦：解決數位大小事！](http://www.techbang.com.tw/)<br />
 [電腦玩物](http://playpcesor.blogspot.com/)<br />
 [【重灌狂人】](http://briian.com/)<br />
@@ -59,10 +57,18 @@
 [Mobile01 [教學]將USB 隨身碟 製成 XP 的安裝碟 (模擬CD-ROM)](http://www.mobile01.com/topicdetail.php?f=159&t=665722&p=1)<br />
 [techPowerUp! Forums - Powered by vBulletin](http://forums.techpowerup.com/index.php)<br />
 [AG【On-Line Store】Diy 改裝軍團 線上購物網 --專營電腦改裝精品--](http://armygroup.com.tw/myshop/index.php?osCsid=8)<br />
+[滄者極限](http://www.coolaler.com/content/)<br />
+[E1200 硬改 2.66G 1.225V - Coolaler BB滄者極限討論區](http://forum.coolaler.com/showthread.php?t=189183)<br />
 
 ## 手機
+
 [Phone Scoop](http://www.phonescoop.com/)<br />
 [手机频道-手机时尚一点通-ZOL中关村在线](http://mobile.zol.com.cn/)<br />
+[Android資訊網站 Android-APK.com](http://www.android-apk.com/)<br />
+[Android News - Android Google Phone Forums](http://www.talkandroid.com/)<br />
+[Android Central | Android Forums, News, and Help](http://www.androidcentral.com/)<br />
+[討論板 | Android中文資源站](http://android.cool3c.com/)<br />
+
 
 ## 論壇
 
@@ -75,6 +81,7 @@
 [捷克](https://www.jkforum.net/forum-141-1.html)<br />
 
 ## blog
+
 [阿修的部落格](http://www.lis186.com/)<br />
 [不思議惑星](http://mymagicalstar.blogspot.com/2007/10/bloggerblogger_04.html)<br />
 [Wizbang](http://wizbangblog.com/)<br />
@@ -103,6 +110,7 @@
 [pttcode - PTT低調低調](http://pttcode.googlepages.com/)<br />
 [CSDN](https://www.csdn.net/)<br />
 [xda-developers](http://forum.xda-developers.com/index.php)<br />
+[SourceForge.net: Find and Develop Open-Source Software](http://sourceforge.net/)<br />
 
 ## 新增資料夾
 
@@ -111,7 +119,6 @@
 [The Sun | The Best for News, Sport, Showbiz, Celebrities &amp; TV | The Sun| The Sun](http://www.thesun.co.uk/sol/homepage/)<br />
 [Talking Points Memo | Breaking News and Analysis](http://www.talkingpointsmemo.com/)<br />
 [Entertainment Weekly&#39;s EW.com | Entertainment News | TV News | TV Shows | Movie, Music and DVD](http://www.ew.com/ew)<br />
-[中國頻道 - 即時中國新聞,深入分析,獨到評論 - 香港經濟日報 hket.com](https://china.hket.com/)<br />
 [Today&#39;s Stock Market News and Analysis - Nasdaq.com](https://www.nasdaq.com/news/)<br />
 [特賣會情報站 撿便宜找好康 :: 痞客邦 PIXNET ::](http://loveshare.pixnet.net/blog)<br />
 [Cracked.com – America&#39;s Only Humor &amp; Video Site Since 1958](http://www.cracked.com/)<br />
@@ -120,8 +127,6 @@
 [ArchDaily | Broadcasting Architecture Worldwide](http://www.archdaily.com/)<br />
 [《工程机械》杂志电子版](http://www.chinacme.com/)<br />
 [建筑机械杂志社](http://www.cm1981.com.cn/index.asp)<br />
-[GIGAZINE（ギガジン） - ソウシリーズ6作目「SAW6」の新しいHD画質予告編が公開中、残虐シーンの一部が明らかに](http://gigazine.net/)<br />
-[TOYSDAILY 玩具日報](http://www.toysdaily.com/)<br />
 [YouTube - mahalodotcom 的頻道](http://www.youtube.com/user/mahalodotcom)<br />
 [Digital Trends Podcasts](http://podcasts.digitaltrends.com/)<br />
 [World Socialist Web Site](http://www.wsws.org/)<br />
@@ -149,25 +154,23 @@
 [The Pirate Bay - The galaxy&#39;s most resilient bittorrent site](http://thepiratebay.se/top/48hall)<br />
 [太湖船 董運昌吉他演奏 - YouTube](https://www.youtube.com/watch?v=xVBBZbZePuM)<br />
 [首页-《海淘速遞》-淘宝网](https://wenglu.tw.taobao.com/shop/view_shop.htm?spm=a1z0k.7386009.1997989141.d4915209.eQwDqe&shop_id=100676402)<br />
-[36氪](http://36kr.com/)<br />
-[巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
 [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)<br />
 [ScienceDirect TOP25 Hottest Articles](http://top25.sciencedirect.com/)<br />
 [Mac Rumors: Apple Mac Rumors and News You Care About](http://www.macrumors.com/)<br />
-[Android資訊網站 Android-APK.com](http://www.android-apk.com/)<br />
-[Android News - Android Google Phone Forums](http://www.talkandroid.com/)<br />
-[Android Central | Android Forums, News, and Help](http://www.androidcentral.com/)<br />
-[討論板 | Android中文資源站](http://android.cool3c.com/)<br />
 [StyleFrizz](http://stylefrizz.com/)<br />
 [SlideShare is the best place to share powerpoin...](http://www.slideshare.net/)<br />
-[ROTTEN TOMATOES: Movies - New Movie Reviews and Previews!](http://www.rottentomatoes.com/)<br />
-[New Movies In Theaters - IMDb](http://www.imdb.com/movies-in-theaters/)<br />
-[豆瓣电影](https://movie.douban.com/)<br />
-[滄者極限](http://www.coolaler.com/content/)<br />
-[E1200 硬改 2.66G 1.225V - Coolaler BB滄者極限討論區](http://forum.coolaler.com/showthread.php?t=189183)<br />
-[Mr. 6 – 趨勢．創業．網路．生活](http://mr6.cc/)<br />
 [The Becker-Posner Blog](http://www.becker-posner-blog.com/)<br />
 [Alexa the Web Information Company](http://www.alexa.com/)<br />
+[史萊姆的第一個家](http://www.slime.com.tw/)<br />
+
+## 電視
+
+[優酷](https://tv.youku.com/)
+[豆瓣电影](https://movie.douban.com/)<br />
+[巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
+[ROTTEN TOMATOES: Movies - New Movie Reviews and Previews!](http://www.rottentomatoes.com/)<br />
+[New Movies In Theaters - IMDb](http://www.imdb.com/movies-in-theaters/)<br />
+
 
 ## 經濟
 
@@ -188,7 +191,7 @@
 [新浪股市](http://finance.sina.com.cn/stock/)<br />
 [證券櫃檯買賣中心](http://www.otc.org.tw/ch/index.php)<br />
 [上海清算所](https://www.shclearing.com/)<br />
-[史萊姆的第一個家](http://www.slime.com.tw/)<br />
+[中國頻道 - 即時中國新聞,深入分析,獨到評論 - 香港經濟日報 hket.com](https://china.hket.com/)<br />
 
 ## VR
 
@@ -216,7 +219,7 @@
 [微博台灣站](http://tw.weibo.com/)<br />
 
 ## Game
-[]()<br />
+
 [1UP.com: Video Game Reviews, Cheats, and More](http://www.1up.com/)<br />
 [GameSpy: Video Games, PC, Xbox 360, PS3, Wii, DS, PSP](http://www.gamespy.com/)<br />
 [GameRankings - Video Game Reviews from around t...](http://www.gamerankings.com/)<br />
@@ -224,3 +227,9 @@
 [youtube:gametrailers](https://www.youtube.com/user/gametrailers)<br />
 [reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
 [巴哈姆特](https://www.gamer.com.tw/)<br />
+
+## 玩具
+
+[TOYSDAILY 玩具日報](http://www.toysdaily.com/)<br />
+
+[]()<br />
