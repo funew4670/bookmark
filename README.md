@@ -1,6 +1,8 @@
 - [新產物](#新產物)
 - [電腦硬體](#電腦硬體)
+- [手機](#手機)
 - [論壇](#論壇)
+- [blog](#blog)
 - [新聞](#新聞)
 - [新軟體介紹](#新軟體介紹)
 - [程式設計](#程式設計)
@@ -12,19 +14,9 @@
 
 []()<br />
 
-Bookmarks<br />
-<br />
-[The View from Taiwan](http://michaelturton.blogspot.com/)<br />
-[阿修的部落格](http://www.lis186.com/)<br />
-[不思議惑星 Magical Star Blogger: Blogger教學大全輯 2009/03/17更新！(持續增加)](http://mymagicalstar.blogspot.com/2007/10/bloggerblogger_04.html)<br />
-[Wizbang](http://wizbangblog.com/)<br />
-[Wired News](http://www.wired.com/)<br />
-[T客邦：解決數位大小事！](http://www.techbang.com.tw/)<br />
-[電腦玩物](http://playpcesor.blogspot.com/)<br />
-[【重灌狂人】](http://briian.com/)<br />
-<br />
 
 ## 新產物
+[Wired News](http://www.wired.com/)<br />
 [Geekzone: technology news, blogs, forums](http://www.geekzone.co.nz/default.asp)<br />
 [Gizmodo - We come from the future.](https://gizmodo.com/)<br />
 [ThinkGeek :: Stuff for Smart Masses](http://www.thinkgeek.com/)<br />
@@ -34,31 +26,30 @@ Bookmarks<br />
 [TechCrunch](http://www.techcrunch.com/)<br />
 [Reseller Advocate | Issue 84](http://www.reselleradvocate.com/public/ram/index.html)<br />
 [WiNDy Online](http://windy-online.com/)<br />
-[PC Magazine - Computer, Software, Hardware and ...](http://www.pcmag.com/)<br />
-[Phone Scoop](http://www.phonescoop.com/)<br />
-[电脑硬件与网络技术_电脑数码目录_百度贴吧](http://tieba.baidu.com/f?ct=536870912&rn=200&pn=0&cm=1101&tn=simpleCategory&sn=%B5%E7%C4%D4%CA%FD%C2%EB&bs=%B5%E7%C4%D4%D3%B2%BC%FE%D3%EB%CD%F8%C2%E7%BC%BC%CA%F5)<br />
 [Lifehacker, tips and downloads for getting things done](http://lifehacker.com/)<br />
 [Instructables - Make, How To, and DIY](http://www.instructables.com/)<br />
-[News ‧ Register Hardware](http://www.reghardware.co.uk/news/)<br />
 [HEXUS.net - Definitive Technology News and Reviews](http://www.hexus.net/)<br />
 [FrostyTech - Best Heat Sinks &amp; PC Cooling Reviews](http://www.frostytech.com/articles.cfm)<br />
 [TechInsight - RAM TV | Giving Intel resellers the edge in todays market.](http://www.techinsight.tv/)<br />
-[三太子上身的痴漢水球2.0](http://molesterwaterball.blogspot.com/)<br />
-[原價屋@酷！PC ‧ 網站入口](http://www.coolpc.com.tw/phpBB2/portal.php)<br />
-[ITmedia News／ITの今が見える、明日が分かる](http://www.itmedia.co.jp/news/)<br />
 [TV.com - Free Full Episodes &amp; Clips, Show Info and TV Listings Guide](http://www.tv.com/?tag=nav_top;home)<br />
 [SourceForge.net: Find and Develop Open-Source Software](http://sourceforge.net/)<br />
-[手机频道-手机时尚一点通-ZOL中关村在线](http://mobile.zol.com.cn/)<br />
-[The Register: Sci/Tech News for the World](http://www.theregister.co.uk/)<br />
 [Product reviews and prices, software downloads, and tech news - CNET](http://www.cnet.com/)<br />
-[VGA Club](http://vgaclub.blogspot.com/)<br />
 [Ars Technica](http://arstechnica.com/)<br />
-[XFastest Media &amp; Forum](http://www.xfastest.com/)<br />
-[产品报价_太平洋电脑网IT产品报价库查询大全](http://product.pconline.com.cn/)<br />
 [AnanDDech: your source for hardware analysis an...](http://www.ananDDech.com/)<br />
 [视频-今日全部分类最多播放 - 中国领先视频网,提供视频播放,视频发布,视频搜索](http://www.youku.com/v_showlist/t2c105g259.html)<br />
 
+
 ## 電腦硬體
+[T客邦：解決數位大小事！](http://www.techbang.com.tw/)<br />
+[電腦玩物](http://playpcesor.blogspot.com/)<br />
+[【重灌狂人】](http://briian.com/)<br />
+[PC Magazine - Computer, Software, Hardware and ...](http://www.pcmag.com/)<br />
+[原價屋@酷！PC ‧ 網站入口](http://www.coolpc.com.tw/phpBB2/portal.php)<br />
+[The Register: Sci/Tech News for the World](http://www.theregister.co.uk/)<br />
+[VGA Club](http://vgaclub.blogspot.com/)<br />
+[产品报价_太平洋电脑网IT产品报价库查询大全](http://product.pconline.com.cn/)<br />
+[XFastest Media &amp; Forum](http://www.xfastest.com/)<br />
+[News ‧ Register Hardware](http://www.reghardware.co.uk/news/)<br />
 [硬派精璽線上購物網](http://www.inpad.com.tw/)<br />
 [CPU-World: From Intel 4004 CPUs to AMD K10 and ...](http://www.cpu-world.com/index.html)<br />
 [The Latest News, Reviews, Guides and Rankings f...](http://www.motherboards.org/)<br />
@@ -69,6 +60,10 @@ Bookmarks<br />
 [techPowerUp! Forums - Powered by vBulletin](http://forums.techpowerup.com/index.php)<br />
 [AG【On-Line Store】Diy 改裝軍團 線上購物網 --專營電腦改裝精品--](http://armygroup.com.tw/myshop/index.php?osCsid=8)<br />
 
+## 手機
+[Phone Scoop](http://www.phonescoop.com/)<br />
+[手机频道-手机时尚一点通-ZOL中关村在线](http://mobile.zol.com.cn/)<br />
+
 ## 論壇
 
 [MyChat 數位男女](http://bbs-mychat.com/index.php)<br />
@@ -78,6 +73,15 @@ Bookmarks<br />
 [HorribleSubs](http://horriblesubs.info/)<br />
 [IRG log g0v.tw](http://logbot.g0v.tw/channel/g0v.tw/today)<br />
 [捷克](https://www.jkforum.net/forum-141-1.html)<br />
+
+## blog
+[阿修的部落格](http://www.lis186.com/)<br />
+[不思議惑星](http://mymagicalstar.blogspot.com/2007/10/bloggerblogger_04.html)<br />
+[Wizbang](http://wizbangblog.com/)<br />
+[The View from Taiwan](http://michaelturton.blogspot.com/)<br />
+[三太子上身的痴漢水球2.0](http://molesterwaterball.blogspot.com/)<br />
+[ITmedia News／ITの今が見える、明日が分かる](http://www.itmedia.co.jp/news/)<br />
+
 
 ## 新聞
 
@@ -219,3 +223,4 @@ Bookmarks<br />
 [vgchartz](http://www.vgchartz.com/)<br />
 [youtube:gametrailers](https://www.youtube.com/user/gametrailers)<br />
 [reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
+[巴哈姆特](https://www.gamer.com.tw/)<br />
