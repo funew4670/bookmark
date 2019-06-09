@@ -67,8 +67,12 @@
 [Android資訊網站 Android-APK.com](http://www.android-apk.com/)<br />
 [Android News - Android Google Phone Forums](http://www.talkandroid.com/)<br />
 [Android Central | Android Forums, News, and Help](http://www.androidcentral.com/)<br />
-[討論板 | Android中文資源站](http://android.cool3c.com/)<br />
-
+[GSMArena.com - GSM phone reviews, news, opinions, votes, manuals and more...](http://www.gsmarena.com/)<br />
+[Android 資訊雜誌 android-hk.com](http://www.android-hk.com/)<br />
+[Smartphone Reviews, News, and Video - pocketnow.com](http://pocketnow.com/)<br />
+[Mobile-review.com](http://www.mobile-review.com/index-en.shtml)<br />
+[MobileTechWorld](http://www.mobiletechworld.com/)<br />
+[IntoMobile - Cell Phone News](http://www.intomobile.com/)<br />
 
 ## 論壇
 
@@ -128,7 +132,6 @@
 [《工程机械》杂志电子版](http://www.chinacme.com/)<br />
 [建筑机械杂志社](http://www.cm1981.com.cn/index.asp)<br />
 [YouTube - mahalodotcom 的頻道](http://www.youtube.com/user/mahalodotcom)<br />
-[Digital Trends Podcasts](http://podcasts.digitaltrends.com/)<br />
 [World Socialist Web Site](http://www.wsws.org/)<br />
 [Free Podcast Hosting, Best Podcast App | Podbean](https://www.podbean.com/)<br />
 [WSJ Tech News Briefing - powered by FeedBurner](http://feeds.wsjonline.com/wsj/podcast_wall_street_journal_tech_news_briefing)<br />
@@ -143,17 +146,9 @@
 [腾讯首页](http://www.qq.com/)<br />
 [天涯聚焦_天涯社区_全球华人网上家园](http://www.tianya.cn/focus/)<br />
 [Alexa Top 500 Global Sites](http://www.alexa.com/topsites)<br />
-[Mobile-review.com](http://www.mobile-review.com/index-en.shtml)<br />
-[MobileTechWorld](http://www.mobiletechworld.com/)<br />
-[IntoMobile - Cell Phone News](http://www.intomobile.com/)<br />
-[GSMArena.com - GSM phone reviews, news, opinions, votes, manuals and more...](http://www.gsmarena.com/)<br />
-[Android 資訊雜誌 android-hk.com](http://www.android-hk.com/)<br />
-[Smartphone Reviews, News, and Video - pocketnow.com](http://pocketnow.com/)<br />
 [Unofficial T-Mobile News, Videos, Articles and more](http://www.tmonews.com/)<br />
-[conan o&#39;brien](http://teamcoco.com/)<br />
 [The Pirate Bay - The galaxy&#39;s most resilient bittorrent site](http://thepiratebay.se/top/48hall)<br />
 [太湖船 董運昌吉他演奏 - YouTube](https://www.youtube.com/watch?v=xVBBZbZePuM)<br />
-[首页-《海淘速遞》-淘宝网](https://wenglu.tw.taobao.com/shop/view_shop.htm?spm=a1z0k.7386009.1997989141.d4915209.eQwDqe&shop_id=100676402)<br />
 [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)<br />
 [ScienceDirect TOP25 Hottest Articles](http://top25.sciencedirect.com/)<br />
 [Mac Rumors: Apple Mac Rumors and News You Care About](http://www.macrumors.com/)<br />
@@ -164,7 +159,7 @@
 [史萊姆的第一個家](http://www.slime.com.tw/)<br />
 
 ## 電視
-
+[conan o&#39;brien](http://teamcoco.com/)<br />
 [優酷](https://tv.youku.com/)
 [豆瓣电影](https://movie.douban.com/)<br />
 [巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
