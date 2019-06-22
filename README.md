@@ -224,6 +224,8 @@
 [youtube:gametrailers](https://www.youtube.com/user/gametrailers)<br />
 [reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
 [巴哈姆特](https://www.gamer.com.tw/)<br />
+[reddit-itch.io](https://www.reddit.com/r/itchio/)<br />
+
 
 ## 玩具
 
