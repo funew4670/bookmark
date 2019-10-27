@@ -13,6 +13,7 @@
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
 - [Game](#Game)
+- [Music](#Music)
 - [玩具](#玩具)
 - [todolist](todolist/youtubevideo.md)
 
@@ -231,6 +232,10 @@
 [reddit diablo3](http://www.reddit.com/r/diablo3/new/)<br />
 [巴哈姆特](https://www.gamer.com.tw/)<br />
 [reddit-itch.io](https://www.reddit.com/r/itchio/)<br />
+
+## Music
+[蝦米音樂](https://www.xiami.com/billboard)<br />
+[Spotify](https://www.spotify.com)<br />
 
 
 ## 玩具
