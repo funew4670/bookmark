@@ -105,6 +105,7 @@
 [Huffington](http://www.huffingtonpost.com/)<br />
 [The New York Times - Breaking News, World News &amp; Multimedia](http://www.nytimes.com/)<br />
 [蘋果動新聞](http://hk.dv.nextmedia.com/template/dv_channel/)<br />
+[politico](https://www.politico.com/)<br />
 
 ## 新軟體介紹
 
