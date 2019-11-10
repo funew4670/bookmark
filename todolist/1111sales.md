@@ -6,6 +6,17 @@ fb
 
 
 webpage
+
 [小米台灣](https://mobile.mi.com/tw/)
 [小米大陸](https://www.mi.com/index.html)
 [小米秒搶](https://www.mi.com/seckill)
+[pchome](https://24h.m.pchome.com.tw/)
+[]()
+[]()
+[]()
+[]()
+[]()
+
+
+
+[]()
