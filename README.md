@@ -12,6 +12,7 @@
 - [地圖](#地圖)
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
+- [3D-printing](#3D-printing)
 - [Game](#Game)
 - [Music](#Music)
 - [玩具](#玩具)
@@ -213,6 +214,11 @@
 [映维网 - 国际权威虚拟现实（VR）平台，引领全球虚拟现实（VR）产业发展](https://yivian.com/)<br />
 [Mogura VR - 国内外のVR/AR/MR最新情報](https://www.moguravr.com/)<br />
 [The British Museum on Sketchfab - Sketchfab](https://sketchfab.com/britishmuseum)<br />
+
+
+## 3D-printing
+[3dprint](https://3dprint.com/)<br />
+
 
 ## socialnetworks
 
