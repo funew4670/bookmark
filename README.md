@@ -8,6 +8,7 @@
 - [程式設計](#程式設計)
 - [新增資料夾](#新增資料夾)
 - [電視](#電視)
+- [購物](#購物)
 - [經濟](#經濟)
 - [地圖](#地圖)
 - [socialnetworks](#socialnetworks)
@@ -168,6 +169,14 @@
 [ROTTEN TOMATOES](http://www.rottentomatoes.com/)<br />
 [New Movies In Theaters - IMDb](http://www.imdb.com/movies-in-theaters/)<br />
 
+## 購物
+[露天](https://www.ruten.com.tw/)<br />
+[淘寶](https://world.taobao.com/)<br />
+[PChome](https://shopping.pchome.com.tw/)<br />
+[momo](https://www.momoshop.com.tw/)<br />
+[京東](https://tw.jd.com/)<br />
+
+[]()<br />
 
 ## 經濟
 
