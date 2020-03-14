@@ -59,11 +59,10 @@
 [iFixit: Apple Mac, MacBook, iPod, and iPhone Re...](http://www.ifixit.com/)<br />
 [Tom&#39;s Hardware: Hardware News, Tests and Reviews](http://www.tomshardware.com/us/)<br />
 [Technology News, Computer and Notebook Reviews, Computer News, Computer Mods, PC News | Maximum PC](http://www.maximumpc.com/)<br />
-[Mobile01 [教學]將USB 隨身碟 製成 XP 的安裝碟 (模擬CD-ROM)](http://www.mobile01.com/topicdetail.php?f=159&t=665722&p=1)<br />
 [techPowerUp! Forums - Powered by vBulletin](http://forums.techpowerup.com/index.php)<br />
 [AG【On-Line Store】Diy 改裝軍團 線上購物網 --專營電腦改裝精品--](http://armygroup.com.tw/myshop/index.php?osCsid=8)<br />
 [滄者極限](http://www.coolaler.com/content/)<br />
-[E1200 硬改 2.66G 1.225V - Coolaler BB滄者極限討論區](http://forum.coolaler.com/showthread.php?t=189183)<br />
+
 
 ## 手機
 
@@ -72,7 +71,7 @@
 [Android資訊網站 Android-APK.com](http://www.android-apk.com/)<br />
 [Android News - Android Google Phone Forums](http://www.talkandroid.com/)<br />
 [Android Central | Android Forums, News, and Help](http://www.androidcentral.com/)<br />
-[GSMArena.com - GSM phone reviews, news, opinions, votes, manuals and more...](http://www.gsmarena.com/)<br />
+[GSMArena.com](http://www.gsmarena.com/)<br />
 [Android 資訊雜誌 android-hk.com](http://www.android-hk.com/)<br />
 [Smartphone Reviews, News, and Video - pocketnow.com](http://pocketnow.com/)<br />
 [Mobile-review.com](http://www.mobile-review.com/index-en.shtml)<br />
@@ -129,8 +128,6 @@
 [The Sun | The Best for News, Sport, Showbiz, Celebrities &amp; TV | The Sun| The Sun](http://www.thesun.co.uk/sol/homepage/)<br />
 [Talking Points Memo | Breaking News and Analysis](http://www.talkingpointsmemo.com/)<br />
 [Entertainment Weekly&#39;s EW.com | Entertainment News | TV News | TV Shows | Movie, Music and DVD](http://www.ew.com/ew)<br />
-[Today&#39;s Stock Market News and Analysis - Nasdaq.com](https://www.nasdaq.com/news/)<br />
-[特賣會情報站 撿便宜找好康 :: 痞客邦 PIXNET ::](http://loveshare.pixnet.net/blog)<br />
 [Cracked.com – America&#39;s Only Humor &amp; Video Site Since 1958](http://www.cracked.com/)<br />
 [Piki Geek | Keep it geeky.](http://blog.pikimal.com/geek/)<br />
 [KHL Group - Home](http://www.khl.com/)<br />
@@ -154,7 +151,6 @@
 [Alexa Top 500 Global Sites](http://www.alexa.com/topsites)<br />
 [Unofficial T-Mobile News, Videos, Articles and more](http://www.tmonews.com/)<br />
 [The Pirate Bay - The galaxy&#39;s most resilient bittorrent site](http://thepiratebay.se/top/48hall)<br />
-[太湖船 董運昌吉他演奏 - YouTube](https://www.youtube.com/watch?v=xVBBZbZePuM)<br />
 [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)<br />
 [ScienceDirect TOP25 Hottest Articles](http://top25.sciencedirect.com/)<br />
 [Mac Rumors: Apple Mac Rumors and News You Care About](http://www.macrumors.com/)<br />
@@ -169,7 +165,7 @@
 [優酷](https://tv.youku.com/)
 [豆瓣电影](https://movie.douban.com/)<br />
 [巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
-[ROTTEN TOMATOES: Movies - New Movie Reviews and Previews!](http://www.rottentomatoes.com/)<br />
+[ROTTEN TOMATOES](http://www.rottentomatoes.com/)<br />
 [New Movies In Theaters - IMDb](http://www.imdb.com/movies-in-theaters/)<br />
 
 
@@ -178,7 +174,7 @@
 [中国经济网——国家经济门户](http://www.ce.cn/)<br />
 [創新突破 無限可能 I&#39;m Possible! - 捷斯奧光電論壇](http://enews.wec.com.tw/)<br />
 [Finance](http://www.google.com/finance)<br />
-[Asia Edition - Wall Street Journal - Latest News, Breaking Stories, Top Headlines - WSJ.com](http://asia.wsj.com/home-page)<br />
+[Asia Edition - Wall Street Journal- WSJ.com](http://asia.wsj.com/home-page)<br />
 [中金在线首页：财经 _ 股票 _ 证券 _ 金融 _ 财经博客](http://www.cnfol.com/)<br />
 [theinsider.com](http://www.theinsider.com/)<br />
 [FileCrop - Search and Download](http://www.filecrop.com/)<br />
