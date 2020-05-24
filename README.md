@@ -177,7 +177,7 @@
 [PChome](https://shopping.pchome.com.tw/)<br />
 [momo](https://www.momoshop.com.tw/)<br />
 [京東](https://tw.jd.com/)<br />
-
+[小米有品](https://www.xiaomiyoupin.com/)<br />
 []()<br />
 
 ## 經濟
