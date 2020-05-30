@@ -39,6 +39,7 @@
 [Mr. 6 – 趨勢．創業．網路．生活](http://mr6.cc/)<br />
 [36氪](http://36kr.com/)<br />
 [電子工程專輯](https://www.eet-china.com/)<br />
+[trending tiktok](https://www.tiktok.com/trending?lang=en)<br />
 
 
 ## 電腦硬體
