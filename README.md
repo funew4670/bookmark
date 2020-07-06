@@ -90,7 +90,8 @@
 [HorribleSubs](http://horriblesubs.info/)<br />
 [IRG log g0v.tw](http://logbot.g0v.tw/channel/g0v.tw/today)<br />
 [捷克](https://www.jkforum.net/forum-141-1.html)<br />
-
+[ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits)<br />
+[ListOfSubredditsNSFW](https://www.reddit.com/r/ListOfSubreddits/wiki/nsfw)<br />
 ## blog
 
 [阿修的部落格](http://www.lis186.com/)<br />
