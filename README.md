@@ -40,6 +40,8 @@
 [36氪](http://36kr.com/)<br />
 [電子工程專輯](https://www.eet-china.com/)<br />
 [trending tiktok](https://www.tiktok.com/trending?lang=en)<br />
+[微博熱搜](https://s.weibo.com/top/summary)<br />
+
 
 
 ## 電腦硬體
