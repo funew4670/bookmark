@@ -1,6 +1,7 @@
 
 - [程式設計](#程式設計)
 - [工程數學](#工程數學)
+- [語言](#語言)
 
 
 ## 程式設計
@@ -14,3 +15,7 @@
 
 engineering mathematics
 [MEE564](https://www.youtube.com/watch?v=QM0ATZRlbKQ&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
+
+##語言
+[日語1500單詞](https://www.youtube.com/watch?v=rhR8UBh3PAo&list=PLhN-jbLe4QCdeD12AIpipzWlRvojHzJl7)
+
