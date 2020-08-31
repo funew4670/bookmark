@@ -45,7 +45,7 @@
 
 
 ## 電腦硬體
-[GIGAZINE（ギガジン） - ソウシリーズ6作目「SAW6」の新しいHD画質予告編が公開中、残虐シーンの一部が明らかに](http://gigazine.net/)<br />
+[GIGAZINE（ギガジン）](http://gigazine.net/)<br />
 [HEXUS.net - Definitive Technology News and Reviews](http://www.hexus.net/)<br />
 [FrostyTech - Best Heat Sinks &amp; PC Cooling Reviews](http://www.frostytech.com/articles.cfm)<br />
 [T客邦：解決數位大小事！](http://www.techbang.com.tw/)<br />
