@@ -4,6 +4,7 @@
 - [論壇](#論壇)
 - [blog](#blog)
 - [新聞](#新聞)
+- [展覽](#展覽)
 - [新軟體介紹](#新軟體介紹)
 - [程式設計](#程式設計)
 - [新增資料夾](#新增資料夾)
@@ -113,6 +114,9 @@
 [The New York Times - Breaking News, World News &amp; Multimedia](http://www.nytimes.com/)<br />
 [蘋果動新聞](http://hk.dv.nextmedia.com/template/dv_channel/)<br />
 [politico](https://www.politico.com/)<br />
+
+## 展覽
+[華山1914](https://www.huashan1914.com/w/huashan1914/exhibition)
 
 ## 新軟體介紹
 
