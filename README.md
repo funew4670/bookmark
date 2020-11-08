@@ -116,7 +116,10 @@
 [politico](https://www.politico.com/)<br />
 
 ## 展覽
-[華山1914](https://www.huashan1914.com/w/huashan1914/exhibition)
+[華山1914](https://www.huashan1914.com/w/huashan1914/exhibition)<br />
+[legacy Taipei](http://www.legacy.com.tw/page/topic)<br />
+<br />
+
 
 ## 新軟體介紹
 
