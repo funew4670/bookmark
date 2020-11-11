@@ -212,7 +212,7 @@
 [http://www.formfactors.org/default.asp](http://www.formfactors.org/default.asp)<br />
 [NBA news, opinion, photos, and more | Bleacher ...](http://bleacherreport.com/nba)<br />
 [Sports Videos, News, and Blogs. - FanDome](http://www.fandome.com/)<br />
-[公開資訊觀測站](http://newmops.twse.com.tw/)<br />
+[公開資訊觀測站](https://mops.twse.com.tw/mops/web/index)<br />
 [新浪股市](http://finance.sina.com.cn/stock/)<br />
 [證券櫃檯買賣中心](http://www.otc.org.tw/ch/index.php)<br />
 [上海清算所](https://www.shclearing.com/)<br />
