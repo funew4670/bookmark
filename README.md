@@ -220,6 +220,7 @@
 [中國頻道 - 即時中國新聞,深入分析,獨到評論 - 香港經濟日報 hket.com](https://china.hket.com/)<br />
 [中國消費網](http://www.ccn.com.cn/)<br />
 [雪球股票](https://xueqiu.com/)<br />
+[富途牛牛](https://news.futunn.com/hk/main?lang=zh-hk&seo_redirect=1)<br />
 
 ## 地圖
 [BigGIS巨量空間資訊系統](https://gis.swcb.gov.tw/)<br />
