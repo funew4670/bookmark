@@ -188,6 +188,8 @@
 [巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
 [ROTTEN TOMATOES](http://www.rottentomatoes.com/)<br />
 [New Movies In Theaters - IMDb](http://www.imdb.com/movies-in-theaters/)<br />
+[niconico](https://www.nicovideo.jp/)<br />
+
 
 ## 購物
 [露天](https://www.ruten.com.tw/)<br />
