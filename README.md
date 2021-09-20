@@ -224,7 +224,7 @@
 [雪球股票](https://xueqiu.com/)<br />
 [富途牛牛](https://news.futunn.com/hk/main?lang=zh-hk&seo_redirect=1)<br />
 [stock.us](https://stock.us/)<br />
-
+[etfrc](https://www.etfrc.com/)<br />
 
 ## 地圖
 [BigGIS巨量空間資訊系統](https://gis.swcb.gov.tw/)<br />
