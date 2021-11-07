@@ -198,6 +198,7 @@
 [momo](https://www.momoshop.com.tw/)<br />
 [京東](https://tw.jd.com/)<br />
 [小米有品](https://www.xiaomiyoupin.com/)<br />
+[葳婭微博淘寶直播](https://taobaolive.taobao.com/room/index.htm?feedId=335317138766)<br />
 []()<br />
 
 ## 經濟
