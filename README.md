@@ -114,6 +114,8 @@
 [The New York Times - Breaking News, World News &amp; Multimedia](http://www.nytimes.com/)<br />
 [蘋果動新聞](http://hk.dv.nextmedia.com/template/dv_channel/)<br />
 [politico](https://www.politico.com/)<br />
+[yahoo(japan)](https://news.yahoo.co.jp/)<br />
+
 
 ## 展覽
 [華山1914](https://www.huashan1914.com/w/huashan1914/exhibition)<br />
