@@ -44,7 +44,7 @@
 [微博熱搜](https://s.weibo.com/top/summary)<br />
 [bilibili專欄](https://www.bilibili.com/read/home)<br />
 [bilibili ranking](https://www.bilibili.com/ranking)<br />
-
+[抖音熱門](https://www.douyin.com/hot)<br />
 
 ## 電腦硬體
 [GIGAZINE（ギガジン）](http://gigazine.net/)<br />
