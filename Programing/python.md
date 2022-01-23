@@ -6,6 +6,8 @@
 
 [finlab](https://ai.finlab.tw/database)<br/>
 [台股開源資料](https://www.ptt.cc/bbs/Stock/M.1569151152.A.BBF.html)<br />
-[台股開源資料_findmind](https://github.com/linsamtw/FinMind)<br />
+[台股開源資料_finmind](https://github.com/linsamtw/FinMind)<br />
+[台股開源資料_finmind](https://github.com/FinMind/FinMind/)<br />
+
 
 
