@@ -11,6 +11,7 @@
 - [電視](#電視)
 - [購物](#購物)
 - [經濟](#經濟)
+- [股票](#股票)
 - [地圖](#地圖)
 - [socialnetworks](#socialnetworks)
 - [VR](#VR)
@@ -96,6 +97,7 @@
 [捷克](https://www.jkforum.net/forum-141-1.html)<br />
 [ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits)<br />
 [ListOfSubredditsNSFW](https://www.reddit.com/r/ListOfSubreddits/wiki/nsfw)<br />
+
 ## blog
 
 [阿修的部落格](http://www.lis186.com/)<br />
@@ -118,6 +120,7 @@
 
 
 ## 展覽
+
 [華山1914](https://www.huashan1914.com/w/huashan1914/exhibition)<br />
 [legacy Taipei](http://www.legacy.com.tw/page/topic)<br />
 [文化部iCulture](https://cloud.culture.tw/)<br />
@@ -229,6 +232,9 @@
 [stock.us](https://stock.us/)<br />
 [etfrc](https://www.etfrc.com/)<br />
 [tradingview](https://tw.tradingview.com/screener/)<br />
+
+## 股票
+[買賣日報表_台灣證券交易所](https://bsr.twse.com.tw/bshtm/)<br />
 
 
 ## 地圖
