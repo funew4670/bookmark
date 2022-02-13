@@ -1,3 +1,4 @@
+- [trending](#trending)
 - [新產物](#新產物)
 - [電腦硬體](#電腦硬體)
 - [手機](#手機)
@@ -24,6 +25,16 @@
 
 []()<br />
 
+## trending
+
+[trending tiktok](https://www.tiktok.com/trending?lang=en)<br />
+[微博熱搜](https://s.weibo.com/top/summary)<br />
+[bilibili專欄](https://www.bilibili.com/read/home)<br />
+[bilibili ranking](https://www.bilibili.com/ranking)<br />
+[抖音熱門](https://www.douyin.com/hot)<br />
+[巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
+[捷克](https://www.jkforum.net/forum-141-1.html)<br />
+[GIGAZINE（ギガジン）](http://gigazine.net/)<br />
 
 ## 新產物
 [Wired News](http://www.wired.com/)<br />
@@ -41,14 +52,10 @@
 [Mr. 6 – 趨勢．創業．網路．生活](http://mr6.cc/)<br />
 [36氪](http://36kr.com/)<br />
 [電子工程專輯](https://www.eet-china.com/)<br />
-[trending tiktok](https://www.tiktok.com/trending?lang=en)<br />
-[微博熱搜](https://s.weibo.com/top/summary)<br />
-[bilibili專欄](https://www.bilibili.com/read/home)<br />
-[bilibili ranking](https://www.bilibili.com/ranking)<br />
-[抖音熱門](https://www.douyin.com/hot)<br />
+[GIGAZINE（ギガジン）](http://gigazine.net/)<br />
 
 ## 電腦硬體
-[GIGAZINE（ギガジン）](http://gigazine.net/)<br />
+
 [HEXUS.net - Definitive Technology News and Reviews](http://www.hexus.net/)<br />
 [FrostyTech - Best Heat Sinks &amp; PC Cooling Reviews](http://www.frostytech.com/articles.cfm)<br />
 [T客邦：解決數位大小事！](http://www.techbang.com.tw/)<br />
