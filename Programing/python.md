@@ -9,5 +9,6 @@
 [台股開源資料_finmind](https://github.com/linsamtw/FinMind)<br />
 [台股開源資料_finmind](https://github.com/FinMind/FinMind/)<br />
 
-
+爬maigoo 類別tag
+<br/>
 
