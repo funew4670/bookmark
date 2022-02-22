@@ -21,6 +21,7 @@
 - [Music](#Music)
 - [玩具](#玩具)
 - [todolist](todolist/youtubevideo.md)
+- [工具](#工具)
 
 
 []()<br />
@@ -300,4 +301,9 @@
 [GSC_goodsmile](https://www.goodsmile.info/en/)<br />
 [pop mart](https://global.popmart.com/)<br />
 [kemelife](https://kemelife.tmall.com/)<br />
+[]()<br />
+
+
+## 工具
+[微軟文字轉語音](https://azure.microsoft.com/zh-tw/services/cognitive-services/text-to-speech/)<br />
 []()<br />
