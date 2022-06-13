@@ -36,6 +36,8 @@
 [巴哈姆特動畫瘋](http://ani.gamer.com.tw/)<br />
 [捷克](https://www.jkforum.net/forum-141-1.html)<br />
 [GIGAZINE（ギガジン）](http://gigazine.net/)<br />
+[富途牛牛](https://news.futunn.com/hk/main/live?lang=zh-hk)<br />
+
 
 ## 新產物
 [Wired News](http://www.wired.com/)<br />
