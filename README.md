@@ -22,6 +22,7 @@
 - [玩具](#玩具)
 - [todolist](todolist/youtubevideo.md)
 - [工具](#工具)
+- [18X](#18X)
 
 
 []()<br />
@@ -309,3 +310,7 @@
 ## 工具
 [微軟文字轉語音](https://azure.microsoft.com/zh-tw/services/cognitive-services/text-to-speech/)<br />
 []()<br />
+
+
+## 18X
+[xslist database](https://xslist.org/tw)<br />
