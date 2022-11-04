@@ -243,6 +243,9 @@
 [stock.us](https://stock.us/)<br />
 [etfrc](https://www.etfrc.com/)<br />
 [tradingview](https://tw.tradingview.com/screener/)<br />
+[marketviews(黃金)](https://www.marketviews.com/trending-gold-content/)<br />
+[]()<br />
+
 
 ## 股票
 [買賣日報表_台灣證券交易所](https://bsr.twse.com.tw/bshtm/)<br />
