@@ -22,6 +22,7 @@
 - [玩具](#玩具)
 - [todolist](todolist/youtubevideo.md)
 - [工具](#工具)
+- [AI](#AI)
 - [18X](#18X)
 
 
@@ -314,6 +315,12 @@
 [微軟文字轉語音](https://azure.microsoft.com/zh-tw/services/cognitive-services/text-to-speech/)<br />
 []()<br />
 
+## AI
+[github Awesome Diffusion](https://github.com/cobanov/awesome-diffusion)<br />
+[github Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)<br />
+[github Awesome GPT-3](https://github.com/elyase/awesome-gpt3)<br />
+[]()<br />
+[]()<br />
 
 ## 18X
 [xslist database](https://xslist.org/tw)<br />
