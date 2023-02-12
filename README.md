@@ -324,3 +324,8 @@
 
 ## 18X
 [xslist database](https://xslist.org/tw)<br />
+[javbus](https://www.javbus.com/)<br />
+[javlibrary](https://www.javlibrary.com/)<br />
+[]()<br />
+[]()<br />
+
