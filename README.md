@@ -319,6 +319,8 @@
 [github Awesome Diffusion](https://github.com/cobanov/awesome-diffusion)<br />
 [github Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)<br />
 [github Awesome GPT-3](https://github.com/elyase/awesome-gpt3)<br />
+[https://civitai.com/](https://civitai.com/)<br />
+[ptt c_chat install guide](https://www.ptt.cc/bbs/C_Chat/M.1664714751.A.7FC.html)<br />
 []()<br />
 []()<br />
 
