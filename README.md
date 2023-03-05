@@ -321,6 +321,7 @@
 [github Awesome GPT-3](https://github.com/elyase/awesome-gpt3)<br />
 [https://civitai.com/](https://civitai.com/)<br />
 [ptt c_chat install guide](https://www.ptt.cc/bbs/C_Chat/M.1664714751.A.7FC.html)<br />
+[hugging face controlnet](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)<br />
 []()<br />
 []()<br />
 
@@ -328,6 +329,5 @@
 [xslist database](https://xslist.org/tw)<br />
 [javbus](https://www.javbus.com/)<br />
 [javlibrary](https://www.javlibrary.com/)<br />
-[hugging face controlnet](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)<br />
 []()<br />
 
