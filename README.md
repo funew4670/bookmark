@@ -328,6 +328,6 @@
 [xslist database](https://xslist.org/tw)<br />
 [javbus](https://www.javbus.com/)<br />
 [javlibrary](https://www.javlibrary.com/)<br />
-[]()<br />
+[hugging face controlnet](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)<br />
 []()<br />
 
