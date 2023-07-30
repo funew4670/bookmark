@@ -41,7 +41,7 @@
 [富途牛牛](https://news.futunn.com/hk/main/live?lang=zh-hk)<br />
 [nico](https://www.nicovideo.jp/)<br />
 [google trends](https://trends.google.com/home?)<br />
-
+[twitter trends](https://twitter.com/i/trends?lang=en)<br />
 
 
 ## 新產物
