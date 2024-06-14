@@ -219,6 +219,7 @@
 [京東](https://tw.jd.com/)<br />
 [小米有品](https://www.xiaomiyoupin.com/)<br />
 [葳婭微博淘寶直播](https://taobaolive.taobao.com/room/index.htm?feedId=335317138766)<br />
+[台北惜物網](https://shwoo.gov.taipei/)<br />
 []()<br />
 
 ## 經濟
