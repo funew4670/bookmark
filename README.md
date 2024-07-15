@@ -250,6 +250,7 @@
 [tradingview](https://tw.tradingview.com/screener/)<br />
 [marketviews(黃金)](https://www.marketviews.com/trending-gold-content/)<br />
 [財新](https://www.caixin.com/)<br />
+[格隆匯](https://www.gelonghui.com/)<br />
 []()<br />
 
 
