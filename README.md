@@ -100,6 +100,8 @@
 [Mobile-review.com](http://www.mobile-review.com/index-en.shtml)<br />
 [MobileTechWorld](http://www.mobiletechworld.com/)<br />
 [IntoMobile - Cell Phone News](http://www.intomobile.com/)<br />
+[gizmochina](https://www.gizmochina.com/)<br />
+
 
 ## 論壇
 
