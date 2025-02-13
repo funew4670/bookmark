@@ -338,6 +338,8 @@
 [chatGPT](https://chat.openai.com/)<br />
 [microsoft copilot](https://copilot.microsoft.com/)<br />
 [google gemini](https://gemini.google.com/)<br />
+[groq](https://groq.com/)<br />
+[cursor](https://www.cursor.com/cn)<br />
 []()<br />
 []()<br />
 
