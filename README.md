@@ -336,6 +336,8 @@
 [hugging face controlnet](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)<br />
 [deepseek](https://www.deepseek.com/)<br />
 [chatGPT](https://chat.openai.com/)<br />
+[microsoft copilot](https://copilot.microsoft.com/)<br />
+[google gemini](https://gemini.google.com/)<br />
 []()<br />
 []()<br />
 
